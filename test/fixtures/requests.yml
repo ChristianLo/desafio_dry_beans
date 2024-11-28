@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trip_id: 1
+  arrival_time: 2024-11-27 23:06:31
+  departure_time: 2024-11-27 23:06:31
+  receiver: MyString
+  sender: MyString
+  status: 1
+  size: 9.99
+  weight: 9.99
+  type_request: 1
+  tracking_number: MyString
+  address: MyString
+
+two:
+  trip_id: 1
+  arrival_time: 2024-11-27 23:06:31
+  departure_time: 2024-11-27 23:06:31
+  receiver: MyString
+  sender: MyString
+  status: 1
+  size: 9.99
+  weight: 9.99
+  type_request: 1
+  tracking_number: MyString
+  address: MyString

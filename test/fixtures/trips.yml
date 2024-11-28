@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  route: one
+  date_start: 2024-11-27 21:03:22
+  date_end: 2024-11-27 21:03:22
+  status: 1
+
+two:
+  route: two
+  date_start: 2024-11-27 21:03:22
+  date_end: 2024-11-27 21:03:22
+  status: 1
