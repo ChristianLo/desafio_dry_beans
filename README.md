@@ -1,5 +1,9 @@
 # Desafio para desarrollador Backend
 
+Versiones:
+    - ruby: 3.2.3 (2024-01-18 revision 52bb2ac0a6)
+    - rails: 8.0.0
+
 Campos para guardar los datos de entrega
 
     - trip_id: es necesario para poder asociarlo a un viaje, en caso de que no debe ser 0
